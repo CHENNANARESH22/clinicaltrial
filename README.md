@@ -43,3 +43,14 @@ A full-stack web application for managing clinical trials, user roles, and medic
 
 ## 📂 Project Structure
 
+
+
+---
+
+## 🧪 How to Run
+
+### 🟢 Backend (Spring Boot)
+
+```bash
+cd backend/clinicaltrial
+./mvnw spring-boot:run
